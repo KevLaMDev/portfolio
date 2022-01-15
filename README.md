@@ -1,3 +1,4 @@
-# Modify this portfolio
+## Collaborators
 
-Make it your own! 
+## Info
+- Deployed site: https://kevinlamarca.netlify.app/
