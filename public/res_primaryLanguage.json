@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Kevin LaMarca. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello there",
+      "description": "👋 I'm Kevin LaMarca, multilingual a software engineer based in NYC. I am proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Redux, Node.js, Java and Spring Boot. I graduated Baruch College with a degree in corporate communciation, an amalgam of marketing, public relations and workplace communication. Before becoming a software engineer, I worked briefly as a English foreign language teacher and then pivoted into software engineering as I enjoyed the mentorship of teaching, but longed to continue learning as a student myself. In addition to English, I am also fluent in Italian and speak French and Spanish conversationally.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Salmon Cookies",
+        "startDate": "2021",
+        "description": "This project is a site that dynamically generates and calculates simulated sales data based on parameters that can be entered into a constructor function that outputs objects representing new store locations. Included is a form wherein the user can create new object instances which will update pre-existing data structures.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/salmon-cookies/p2.png",
+          "images/portfolio/salmon-cookies/p1.png"
         ],
-        "url": "",
+        "url": "https://kevlamdev.github/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "City Explorers",
+        "startDate": "2022",
+        "description": "City Explorers is built with React that calls upon a geoData API to render maps of any location in the world that the user wishes to see.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/city-explorers/p1.png",
+          "images/portfolio/city-explorers/p2.png"
         ],
-        "url": "https://github.com",
+        "url":"https://github.com/KevLaMDev/city-explorer",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Coming Soon!",
+        "startDate": "2022",
+        "description": "",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "7/17/21 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript 8/9/21"
         ],
         "technologies": [
           "REST API",
@@ -94,24 +94,8 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Java",
+          "Spring Boot"
         ]
       }
     ]

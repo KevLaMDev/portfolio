@@ -14,7 +14,7 @@ class App extends Component {
     this.state = {
       foo: "bar",
       resumeData: {},
-      sharedData: {},
+      sharedData: {}
     };
   }
 
