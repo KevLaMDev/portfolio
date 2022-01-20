@@ -2,6 +2,11 @@
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
+.title-container {
+	color: #F8F5F4;
+	font-size: 28px;
+}
+
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -98,6 +103,7 @@ header h1 {
 	font-weight: 600 !important;
 	color: #F8F5F4;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-top: 5%;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -129,8 +135,8 @@ header h1 {
 	padding-top: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
-	color: black;
+	letter-spacing: 6px;
+	color: #F8F5F4;
 	text-align: center;
 }
 
@@ -157,7 +163,7 @@ header h1 {
 }
 
 .foto div:after {
-	color: #333;
+	color: #F8F5F4;
 	font-size: 25px;
 	content: attr(title);
 	position: relative;
@@ -415,7 +421,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #68788C;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
@@ -439,3 +445,4 @@ footer a:focus {
 	margin-top: 10px;
 	font-size: 22px;
 }
+
