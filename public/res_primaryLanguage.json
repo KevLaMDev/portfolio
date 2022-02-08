@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello there",
-      "description": "👋 I'm Kevin LaMarca, multilingual a software engineer based in NYC. I am proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Redux, Node.js, Java and Spring Boot. I graduated Baruch College with a degree in corporate communciation, an amalgam of marketing, public relations and workplace communication. Before becoming a software engineer, I worked briefly as a English foreign language teacher and then pivoted into software engineering as I enjoyed the mentorship of teaching, but longed to continue learning as a student myself. In addition to English, I am also fluent in Italian and speak French and Spanish conversationally.",
+      "description": "👋 I'm Kevin LaMarca, multilingual a software engineer based in NYC. I am proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Redux, Node.js, Java and Spring Boot. I graduated from Baruch College with a degree in corporate communication, an amalgam of marketing, public relations and workplace communication. Before becoming a software engineer, I worked briefly as a English foreign language teacher and then pivoted into software engineering as I enjoyed the mentorship of teaching, but longed to continue learning as a student myself. In addition to English, I am also fluent in Italian and speak French and Spanish conversationally.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -55,26 +55,35 @@
         ]
       },
       {
-        "title": "Coming Soon!",
+        "title": "My Kitchen",
         "startDate": "2022",
-        "description": "",
+        "description": "Fullstack MERN app that takes in available ingredients from the user and calls upon the Spoonacular API to present the user a variety of recipes using said ingredients. The app consists of a backend RESTful API built with express and node.js, and a React client frontend using the bootstrap library.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/my-kitchen/Home-page.png",
+          "images/portfolio/my-kitchen/Search.png",
+          "images/portfolio/my-kitchen/results.png"
         ],
-        "url": "https://github.com",
+        "url": "https://my-kitchen-frontend.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }
@@ -82,10 +91,10 @@
     "experience": [
       {
         "company": "Code Fellows",
-        "title": "Student",
+        "title": "Software Engineering Fellow",
         "years": "7/17/21 - present",
         "mainTech": [
-          "JavaScript 8/9/21"
+          "JavaScript", "Java"
         ],
         "technologies": [
           "REST API",
